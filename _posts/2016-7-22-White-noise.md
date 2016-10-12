@@ -1,6 +1,7 @@
 ---
 layout: post
 title: White noise to calm baby
+permalink: /white-noise/
 ---
 
 [White noise](https://en.wikipedia.org/wiki/White_noise) is a noise which contains all frequencies at the same time. It can be described as a sound of rain or a radio that is not tuned to a channel. White noise calms babies as it reminds them of the sounds of the womb.
